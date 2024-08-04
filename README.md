@@ -41,6 +41,6 @@ Host names, neighborhoods, and average prices are highlighted.
 This project demonstrates my ability to analyze and visualize complex datasets using Tableau. The insights gained from the analysis can be used to make informed decisions in the Airbnb market. Feel free to explore the dashboard and the code provided in this repository.
 
 ## Visuals
-https://github.com/PriyanshuDupare/Airbnb-Data-Analysis/blob/main/Screenshot%20(938).png
+https://github.com/PriyanshuDupare/Airbnb_Data_Analysis_Project/blob/main/Screenshot%20(943).png
 
 The Tableau Completely Dynamic dashboard provides comprehensive insights into Airbnb listings in NYC, showcasing total bookings, average prices, and top hosts across different neighborhoods. Interactive elements allow users to filter data by room type and neighborhood group for detailed analysis.
